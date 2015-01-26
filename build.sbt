@@ -1,4 +1,4 @@
-name := """crudent"""
+name := """Crudant"""
 
 version := "1.0-SNAPSHOT"
 
