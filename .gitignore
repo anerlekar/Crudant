@@ -1,3 +1,7 @@
+project/target*
+project/project*
+logs*
+target*
 out*
 *.idea*
 *.iml*
